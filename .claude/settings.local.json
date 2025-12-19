@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:adventofcode.com)",
+      "Bash(elixir:*)",
+      "Bash(chmod:*)",
+      "Bash(./day02.exs day02_sample.txt)"
+    ]
+  }
+}
