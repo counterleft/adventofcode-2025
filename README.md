@@ -7,7 +7,7 @@ This goal to qualitatively see how well Claude:
 1. Analyzes each puzzle
 1. Writes readable Elixir-based solutions for each puzzle
 
-The commits have Claude prompts and its responses. Makes for fun read-through.
+The commits have Claude prompts and its responses. Makes for a fun read-through.
 
 ## Versions
 
