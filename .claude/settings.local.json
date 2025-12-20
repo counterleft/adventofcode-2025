@@ -5,7 +5,8 @@
       "Bash(elixir:*)",
       "Bash(chmod:*)",
       "Bash(./day02.exs day02_sample.txt)",
-      "Bash(./day03.exs day03_sample.txt)"
+      "Bash(./day03.exs day03_sample.txt)",
+      "Bash(./day04.exs:*)"
     ]
   }
 }
