@@ -6,7 +6,8 @@
       "Bash(chmod:*)",
       "Bash(./day02.exs day02_sample.txt)",
       "Bash(./day03.exs day03_sample.txt)",
-      "Bash(./day04.exs:*)"
+      "Bash(./day04.exs:*)",
+      "Bash(./day05.exs day05_sample.txt)"
     ]
   }
 }
