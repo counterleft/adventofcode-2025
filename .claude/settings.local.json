@@ -7,7 +7,10 @@
       "Bash(./day02.exs day02_sample.txt)",
       "Bash(./day03.exs day03_sample.txt)",
       "Bash(./day04.exs:*)",
-      "Bash(./day05.exs day05_sample.txt)"
+      "Bash(./day05.exs day05_sample.txt)",
+      "Bash(./day06.exs day06_sample.txt)",
+      "Bash(./day06.exs:*)",
+      "Bash(./day07.exs day07_sample.txt)"
     ]
   }
 }
